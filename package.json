@@ -1,11 +1,12 @@
 {
     "name": "cordova-plugin-admob-mediation-unity",
-    "version": "1.0",
+    "version": "1.2.5",
     "description": "AdMob Mediation Adapter for Unity Ads",
     "cordova": {
         "id": "cordova-plugin-admob-mediation-unity",
         "platforms": [
-            "android"
+            "android",
+            "ios"
         ]
     },
     "repository": {
@@ -15,6 +16,7 @@
     "keywords": [
         "ecosystem:cordova",
         "cordova-android",
+        "cordova-ios",
         "cordova",
         "plugin",
         "ad",
