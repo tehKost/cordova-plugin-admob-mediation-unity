@@ -1,0 +1,36 @@
+{
+    "name": "cordova-plugin-admob-mediation-unity",
+    "version": "1.2.5",
+    "description": "AdMob Mediation Adapter for Unity Ads",
+    "cordova": {
+        "id": "cordova-plugin-admob-mediation-unity",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tehKost/cordova-plugin-admob-mediation-unity.git"
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios",
+        "cordova",
+        "plugin",
+        "ad",
+        "admob",
+        "unity",
+        "mediation"
+    ],
+    "author": {
+        "name": "Kost Kunica",
+        "url": "https://github.com/tehKost"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tehKost/cordova-plugin-admob-mediation-unity/issues"
+    },
+    "homepage": "https://github.com/tehKost/cordova-plugin-admob-mediation-unity"
+}
