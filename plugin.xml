@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="cordova-plugin-admob-mediation-unity"
+    version="1.0">
+
+    <name>AdMob Mediation Adapter for Unity ADS</name>
+    <description>AdMob Mediation Adapter for Unity ADS</description>
+    <author>Kost Kunica</author>
+    <keywords>admob,mediation,unity</keywords>
+    <license>MIT</license>
+
+    <platform name="android">
+        <framework src="com.unity3d.ads:unity-ads:2.2.0" />
+        <framework src="com.google.ads.mediation:unity:2.2.0.0" />
+    </platform>
+
+</plugin>
